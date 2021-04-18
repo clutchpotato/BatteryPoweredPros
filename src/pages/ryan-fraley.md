@@ -1,9 +1,9 @@
 ---
 id: 3c88ffc6-7b6b-4bd7-86f9-098daf42c223
 templateKey: author-page
-title: Hassan Hifz
-slug: hassan-hifz
-image: /img/ryan.jpg
+title: Jack Collins
+slug: jack-collins
+image: /img/untitled-design-3-.png
 description: Right from the age of 4, Hassan started gaming. He knows best what
   he is doing. Currently Hassan is Senior author at Techno Clutch. Only a tech
   geek knows best what components to be used for which conditions. To him,
