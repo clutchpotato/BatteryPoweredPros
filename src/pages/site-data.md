@@ -1,8 +1,8 @@
 ---
 templateKey: site-data
 title: Techno Clutch
-logoSmall: /img/cropped-logo-final-2.png
-logoLarge: /img/cropped-logo-final-2.png
+logoSmall: /img/logo-bpp.png
+logoLarge: /img/logo-bpp.png
 faviconSmall: /img/favicon-16x16.png
 faviconLarge: /img/favicon-32x32.png
 disqus: techno-clutch
