@@ -5,8 +5,8 @@ logoSmall: /img/logo-bpp.png
 logoLarge: /img/logo-bpp.png
 faviconSmall: /img/favicon-16x16.png
 faviconLarge: /img/favicon-32x32.png
-disqus: techno-clutch
-facebook: https://www.facebook.com/technoclutchweb
+disqus: ""
+facebook: ""
 youtube: ""
 twitter: ""
 number: ""
@@ -33,8 +33,6 @@ topNav:
   - title: Guides
     link: /guides/
 footerNav:
-  - title: About Us
-    link: /about-us/
   - title: Contact Us
     link: /contact-us/
   - link: /affiliate-disclosure/
