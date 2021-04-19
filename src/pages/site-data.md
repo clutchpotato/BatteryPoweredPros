@@ -6,10 +6,10 @@ logoLarge: /img/logo-bpp.png
 faviconSmall: /img/favicon-16x16.png
 faviconLarge: /img/favicon-32x32.png
 disqus: ""
-facebook: ""
-youtube: ""
-twitter: ""
-number: ""
+facebook: "#"
+youtube: "#"
+twitter: "#"
+number: "#"
 dmca: false
 dmcaLink: "#"
 cookies:
