@@ -8,6 +8,6 @@ description: Jack Collins has been fixing batteries since 12 years. He spend
   most of his carrier on batteries and panels. Know more about him on Battery
   Powered Pros.
 seoTitle: About Jack Collins - Author
-seoDescription: Meet Hassan Hifz, Senior author at Battery Powered Pros. Ask him
-  questions about batteries and panels.
+seoDescription: Meet Jack Collins, Senior author at Battery Powered Pros. Ask
+  him questions about batteries and panels.
 ---
