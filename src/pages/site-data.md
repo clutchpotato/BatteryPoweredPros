@@ -1,6 +1,6 @@
 ---
 templateKey: site-data
-title: Techno Clutch
+title: Battery Powered Pros
 logoSmall: /img/logo-bpp.png
 logoLarge: /img/logo-bpp.png
 faviconSmall: /img/favicon-16x16.png
