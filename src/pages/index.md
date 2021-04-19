@@ -1,9 +1,8 @@
 ---
 templateKey: index-page
 static: false
-seoTitle: Techno Clutch - Computers & Gaming Made Easy
-seoDescription: Techno Clutch is a Brand where we review hundreds of computer
-  gadgets weekly and publish only the worthy products. We post unbiased reviews
-  only.
+seoTitle: Battery Powered Pros - Get Your Problem Fixed
+seoDescription: Battery Powered Pros is your 1 stop shop for any battery related
+  issue or consultation. Reach out to us using our contact form.
 categories: []
 ---
